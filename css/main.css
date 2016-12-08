@@ -2,10 +2,17 @@ body {
   font-family: 'circular air';
 }
 
+nav ul {
+  list-style: none;
+  color: #9e9e9e;
+  display: inline-block;
+}
+
 h1 {
   font-family: 'circular air';
   font-weight: 400;
   font-size: 30px;
   color: #54bbff;
   margin: 40px;
+  display: inline-block;
 }
